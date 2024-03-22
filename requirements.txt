@@ -1,0 +1,5 @@
+bcrypt==4.1.2
+dnspython==1.16.0
+pymongo==3.11.0
+Pyro4==4.82
+serpent==1.41
